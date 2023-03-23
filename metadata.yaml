@@ -1,0 +1,32 @@
+_repo: The-starmen_70310
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brackett, Leigh
+    aliases:
+    - Brackett, Leigh Douglass
+    - Hamilton, Leigh Brackett
+    birthdate: 1915
+    deathdate: 1978
+    gutenberg_agent_id: '25398'
+    url: http://www.gutenberg.org/2009/agents/25398
+    wikipedia: https://en.wikipedia.org/wiki/Leigh_Brackett
+description: ''
+gutenberg_issued: '2023-03-17'
+identifiers:
+  gutenberg: '70310'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x000381497&view=1up&seq=9
+pgterms:marc905: 20221125075033brackett
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bGnome Press, Inc., $c1951, copyright 1952.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The starmen
+url: http://www.gutenberg.org/ebooks/70310
